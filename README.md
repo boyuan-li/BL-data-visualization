@@ -17,3 +17,6 @@ Data visualization in python
 7. datashader
 
 8. kepler.gl
+
+
+[datashader](https://towardsdatascience.com/large-scale-visualizations-and-mapping-with-datashader-d465f5c47fb5)
