@@ -2,24 +2,16 @@
 
 Data visualization in python
 
-1. [matplotlib](https://github.com/matplotlib/matplotlib) - basics
-
-2. [seaborn](https://github.com/mwaskom/seaborn) - additions to matplotlib and statistical graphics
-
-3. [plotnine](https://github.com/has2k1/plotnine) - r grammer of graphics
-
-4. [bokeh](https://github.com/bokeh/bokeh) - interactive visualization
-
-5. [plotly](https://github.com/plotly/plotly.py) - interactive visualization
-
-6. [holoviews](https://github.com/holoviz/holoviews) - explore data annotation
-
-7. [datashader](https://github.com/holoviz/datashader) - big data visualization
-
-8. [kepler.gl](https://github.com/keplergl/kepler.gl) - geolocation data 
-
-9. [cufflinks](https://github.com/santosjorge/cufflinks) - plotly and pandas
-
+- [matplotlib](https://github.com/matplotlib/matplotlib) - basics
+- [seaborn](https://github.com/mwaskom/seaborn) - additions to matplotlib and statistical graphics
+- [plotnine](https://github.com/has2k1/plotnine) - r grammer of graphics
+- [bokeh](https://github.com/bokeh/bokeh) - interactive visualization
+- [plotly](https://github.com/plotly/plotly.py) - interactive visualization
+- [holoviews](https://github.com/holoviz/holoviews) - explore data annotation
+- [datashader](https://github.com/holoviz/datashader) - big data visualization
+- [kepler.gl](https://github.com/keplergl/kepler.gl) - geolocation data 
+- [cufflinks](https://github.com/santosjorge/cufflinks) - plotly and pandas
+- [folium](https://github.com/python-visualization/folium) - leaflet map 
 
 [datashader](https://towardsdatascience.com/large-scale-visualizations-and-mapping-with-datashader-d465f5c47fb5)
 
