@@ -13,10 +13,5 @@ Data visualization in python
 - [cufflinks](https://github.com/santosjorge/cufflinks) - plotly and pandas
 - [folium](https://github.com/python-visualization/folium) - leaflet map 
 
-Articles: 
-
-[datashader](https://towardsdatascience.com/large-scale-visualizations-and-mapping-with-datashader-d465f5c47fb5)
-
-[holoviews](https://towardsdatascience.com/advanced-data-visualization-with-holoviews-e7263ad202e)
 
 ![data](https://github.com/boyuan-li/BL-data-visualization/blob/master/photos/4.png)
