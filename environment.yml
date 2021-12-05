@@ -12,5 +12,4 @@ dependencies:
   - holoviews
   - datashader
   - keplergl
-  - cufflinks
-  - tabpy
+
