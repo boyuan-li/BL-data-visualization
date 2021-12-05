@@ -1,5 +1,7 @@
 # Data Visualization 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/boyuan-li/BL-data-visualization/blob/master/README.md/HEAD)
+
 Data visualization in python
 
 - [matplotlib](https://github.com/matplotlib/matplotlib) - basics
