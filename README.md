@@ -1,6 +1,6 @@
 # Data Visualization 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/boyuan-li/BL-data-visualization/blob/master/README.md/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/boyuan-li/BL-data-visualization)
 
 Data visualization in python
 
