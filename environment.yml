@@ -5,3 +5,12 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
+  - seaborn
+  - bokeh
+  - plotly
+  - plotnine
+  - holoviews
+  - datashader
+  - keplergl
+  - cufflinks
+  - tabpy
