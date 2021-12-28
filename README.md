@@ -14,6 +14,7 @@ Data visualization in python
 - [kepler.gl](https://github.com/keplergl/kepler.gl) - geolocation data 
 - [cufflinks](https://github.com/santosjorge/cufflinks) - plotly and pandas
 - [folium](https://github.com/python-visualization/folium) - leaflet map 
+- [evidently](https://github.com/evidentlyai/evidently) - ML charts
 
 
 ![data](https://github.com/boyuan-li/BL-data-visualization/blob/master/photos/4.png)
